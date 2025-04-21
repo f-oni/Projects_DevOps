@@ -21,6 +21,8 @@
 
   ![Ubuntu Login page](https://github.com/f-oni/Projects_DevOps/blob/a9a714498580c54c0c183b7f0532f44091d671d0/Ubuntu%20%20login%20prompt.png)
 
+  ![Ubuntu Terminal](https://github.com/f-oni/Projects_DevOps/blob/837555b58691b7e4326ca52a2f47d76006289ba9/Ubuntu_terminal.png)
+
 ## Application Accounts
 
 - GitHub Account
