@@ -9,6 +9,8 @@
 
   ![Git Version](https://github.com/f-oni/Projects_DevOps/blob/7ca97c9bbf2c1764c2a135c2a868950372ee29e8/local_git_version.png)
 
+  ![Git config page](https://github.com/f-oni/Projects_DevOps/blob/dc002130fc1d4724fbc19d17c0d4fa2543ac5512/local_git_configuration.png)
+
   
 - Oracle Virtual Box
 - Ubuntu Desktop
