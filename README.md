@@ -13,6 +13,10 @@
 
   
 - Oracle Virtual Box
+
+  ![Oracle Vitual Box](https://github.com/f-oni/Projects_DevOps/blob/11660947458f1139f9bc40697f840fe21c5ef42f/Oracle_VM.png)
+
+  
 - Ubuntu Desktop
 
 ## Application Accounts
