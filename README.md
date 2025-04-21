@@ -17,7 +17,9 @@
   ![Oracle Vitual Box](https://github.com/f-oni/Projects_DevOps/blob/11660947458f1139f9bc40697f840fe21c5ef42f/Oracle_VM.png)
 
   
-- Ubuntu Desktop
+- Ubuntu
+
+  ![Ubuntu Login page](https://github.com/f-oni/Projects_DevOps/blob/a9a714498580c54c0c183b7f0532f44091d671d0/Ubuntu%20%20login%20prompt.png)
 
 ## Application Accounts
 - GitHub Account
