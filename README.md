@@ -29,3 +29,5 @@
 
   
 - Amazon Web services (AWS) Account
+
+  ![AWS Console](https://github.com/f-oni/Projects_DevOps/blob/311930c912e4de64d1fc2f98e5d5e468810ebda2/AWS_console.png)
