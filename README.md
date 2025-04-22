@@ -25,6 +25,9 @@
 
   ![Oracle Vitual Box](https://github.com/f-oni/Projects_DevOps/blob/11660947458f1139f9bc40697f840fe21c5ef42f/Oracle_VM.png)
 
+  ![image](https://github.com/user-attachments/assets/a5a818ae-f3cd-4162-ba21-70f3f673129f)
+
+
   
 - Ubuntu
 
