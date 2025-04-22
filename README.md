@@ -50,6 +50,9 @@
 
   ![GitHub Dashboard](https://github.com/f-oni/Projects_DevOps/blob/7352ae96db075bdb089c99a230c017755d8f6da8/Github_Account.png)
 
+  ![image](https://github.com/user-attachments/assets/f42dc62a-7cfa-4eca-ad53-ca60a8ec6878)
+
+
   
 - Amazon Web services (AWS) Account
 
