@@ -26,6 +26,7 @@
   ![Oracle Vitual Box](https://github.com/f-oni/Projects_DevOps/blob/11660947458f1139f9bc40697f840fe21c5ef42f/Oracle_VM.png)
   
 
+
   ![image](https://github.com/user-attachments/assets/a5a818ae-f3cd-4162-ba21-70f3f673129f)
 
 
@@ -38,6 +39,10 @@
 
 
   ![Ubuntu Terminal](https://github.com/f-oni/Projects_DevOps/blob/837555b58691b7e4326ca52a2f47d76006289ba9/Ubuntu_terminal.png)
+
+
+  ![image](https://github.com/user-attachments/assets/c2f5915d-77e2-4eaa-bbd7-bda686e96225)
+
 
 ## Application Accounts
 
