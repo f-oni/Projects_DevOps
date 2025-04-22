@@ -24,6 +24,7 @@
 - Oracle Virtual Box
 
   ![Oracle Vitual Box](https://github.com/f-oni/Projects_DevOps/blob/11660947458f1139f9bc40697f840fe21c5ef42f/Oracle_VM.png)
+  
 
   ![image](https://github.com/user-attachments/assets/a5a818ae-f3cd-4162-ba21-70f3f673129f)
 
@@ -32,6 +33,9 @@
 - Ubuntu
 
   ![Ubuntu Login page](https://github.com/f-oni/Projects_DevOps/blob/a9a714498580c54c0c183b7f0532f44091d671d0/Ubuntu%20%20login%20prompt.png)
+
+  ![image](https://github.com/user-attachments/assets/1f8230ee-d41d-4cb2-85c0-5dabff5b959d)
+
 
   ![Ubuntu Terminal](https://github.com/f-oni/Projects_DevOps/blob/837555b58691b7e4326ca52a2f47d76006289ba9/Ubuntu_terminal.png)
 
