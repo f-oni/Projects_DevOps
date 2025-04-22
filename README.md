@@ -17,6 +17,9 @@
 
   ![Git config page](https://github.com/f-oni/Projects_DevOps/blob/dc002130fc1d4724fbc19d17c0d4fa2543ac5512/local_git_configuration.png)
 
+  ![image](https://github.com/user-attachments/assets/435090ce-f6e6-4afd-9a68-495beaaed316)
+
+
   
 - Oracle Virtual Box
 
