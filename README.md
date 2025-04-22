@@ -4,6 +4,9 @@
 - Visiual Studio Code
   
   ![Visual Studio Code](https://github.com/f-oni/Projects_DevOps/blob/61ce7583ea597e8af7228ede5936408b4f5931fa/Vscode_welcome_page.png)
+
+  ![image](https://github.com/user-attachments/assets/0b9d0d85-1a01-4a52-ab5c-2d52f34aca14)
+
   
 - Git
 
