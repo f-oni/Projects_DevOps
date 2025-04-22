@@ -57,3 +57,7 @@
 - Amazon Web services (AWS) Account
 
   ![AWS Console](https://github.com/f-oni/Projects_DevOps/blob/311930c912e4de64d1fc2f98e5d5e468810ebda2/AWS_console.png)
+  
+
+  ![image](https://github.com/user-attachments/assets/c760db68-90be-42d0-910b-13d1f7e465c4)
+
